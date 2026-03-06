@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Deepshikha 👋
 
-<!--
-**Dpath-9/Dpath-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Scientist | Python | SQL | Machine Learning | Power BI  
+📍 Bangalore, India  
 
-Here are some ideas to get you started:
+## Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Data Analysis & EDA
+- Power BI
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 HR Analytics & Attrition Analysis  
+Analyzed employee attrition patterns using Python and visualization techniques.  
+Tech Stack: Python, Pandas, Matplotlib, Seaborn, Power BI  
+GitHub: https://github.com/Dpath-9/HR-Analytics-Project
+
+## Certifications
+- Advanced Certification in Data Science & AI – AnalytixLabs
+- Certified ScrumMaster (CSM)
+- PMI Agile Certified Practitioner (PMI-ACP)
+
+## Connect with me
+- LinkedIn
+- GitHub
